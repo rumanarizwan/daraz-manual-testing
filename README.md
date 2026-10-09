@@ -45,7 +45,6 @@ Each test case records the test type, technique, test data, actual result and st
 ## Files
 
 - [Test report (PDF)](Daraz_Manual_Testing_Report.pdf)
-- [Test cases (spreadsheet)](Daraz_Test_Cases.xlsx) *(add if you create it)*
 - [Screenshots](screenshots/): evidence for the three defects is named `BUG_001_...`, `BUG_002_...` and `BUG_003_...`; other files are named after the test case they support (for example `TC_CHK_008_cerave_qty5.png`)
 
 ## What I would do next
